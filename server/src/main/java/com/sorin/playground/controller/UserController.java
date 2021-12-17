@@ -5,7 +5,6 @@ import com.sorin.playground.models.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.math.BigDecimal;
 
 @RestController
 public class UserController implements UserApi {
